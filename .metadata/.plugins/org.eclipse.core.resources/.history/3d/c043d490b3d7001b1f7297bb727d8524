@@ -1,0 +1,6 @@
+package io.github.curso.todo.model;
+
+
+public class Todo {
+
+}

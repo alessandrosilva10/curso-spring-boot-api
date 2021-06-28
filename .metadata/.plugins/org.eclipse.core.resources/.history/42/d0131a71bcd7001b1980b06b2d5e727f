@@ -1,0 +1,18 @@
+package io.github.curso.todo;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+
+import io.github.curso.todo.model.Todo;
+import io.github.curso.todo.repository.TodoRepository;
+import java.time.LocalDateTime;
+
+@SpringBootApplication
+public class TodoApplication {
+	public static void main(String[] args) {
+		SpringApplication.run(TodoApplication.class, args);
+	}
+}

@@ -1,0 +1,1521 @@
+!SESSION 2021-06-27 22:23:49.309 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-06-27 22:25:12.384
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-27 22:25:12.384
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@31c0c7e5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@912747d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-06-27 22:25:24.307
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Alessandro'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-06-27 22:31:01.099
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:31:02.993
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:31:03.654
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:31:51.234
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:31:51.592
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY org.eclipse.ui 2 2 2021-06-27 22:46:36.757
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:02.112
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:02.113
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3da0b375[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:02.159
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:02.528
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:12.580
+!MESSAGE Boot LS startup time from start to initialized: 10398ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:13.019
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.lZEaLDKCisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:13.075
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:13.097
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:13.098
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:13.099
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:13.099
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.lZEaLDKC => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:13.108
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:13.112
+!MESSAGE buffering callback sts4.classpath.lZEaLDKC todo false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:13.112
+!MESSAGE executing callback sts4.classpath.lZEaLDKC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 22:47:13.939
+!MESSAGE executing callback sts4.classpath.lZEaLDKC SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-27 22:47:21.464
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:47:29.834
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:48:24.459
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:48:25.014
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:50:59.191
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:51:00.185
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:51:22.257
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:51:22.812
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:52:35.553
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:52:36.153
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:52:40.621
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:52:41.164
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:52:59.397
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:52:59.992
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:53:45.165
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:53:45.717
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:54:25.101
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:54:25.699
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:55:11.902
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 22:55:12.508
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:04:17.267
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:04:17.824
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:05:34.716
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:05:35.418
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:06:00.130
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:06:01.175
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:06:37.825
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:06:38.417
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:07:35.922
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:07:36.514
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:07:51.075
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:07:51.619
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:10:46.571
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:10:47.364
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:10:47.692
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:13:31.532
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:13:31.846
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.lZEaLDKC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:13:31.847
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.lZEaLDKC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:13:31.848
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:13:31.849
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.lZEaLDKC => OK
+
+!ENTRY Activator 1 0 2021-06-27 23:13:32.148
+!MESSAGE Has main method computation for project 'todo'
+!SESSION 2021-06-27 23:13:35.249 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-06-27 23:14:27.714
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-27 23:14:27.714
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1002d1c8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@38a27ace,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:35.157
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:35.158
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2cab0f34[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:35.162
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:35.204
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-06-27 23:14:39.446
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-06-27 23:14:39.474
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Alessandro'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:40.803
+!MESSAGE Boot LS startup time from start to initialized: 5629ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:40.969
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.dzfFvCDJisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:40.974
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:40.978
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:40.979
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:40.980
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.dzfFvCDJ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:40.981
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:41.000
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:41.006
+!MESSAGE buffering callback sts4.classpath.dzfFvCDJ todo false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:41.007
+!MESSAGE executing callback sts4.classpath.dzfFvCDJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 23:14:41.545
+!MESSAGE executing callback sts4.classpath.dzfFvCDJ SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-27 23:15:25.726
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:15:28.114
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:15:28.748
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY org.eclipse.ui 2 2 2021-06-27 23:18:49.707
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-06-27 23:19:16.956
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:19:17.624
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:19:22.192
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:19:22.860
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:20:30.914
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:20:31.546
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:20:42.301
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:20:42.883
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:21:47.230
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:21:48.100
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:23:36.482
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:23:37.112
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:26:50.698
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:26:51.322
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:27:03.926
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:27:04.842
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY org.eclipse.jface 2 0 2021-06-27 23:35:32.411
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-27 23:35:32.411
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@49094246,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@171fea6f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY Activator 1 0 2021-06-27 23:38:25.936
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:38:26.077
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:38:26.204
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:38:26.640
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-06-27 23:38:26.943
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResoultion(LSPCodeActionMarkerResolution.java:170)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:192)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createTreeItem(AbstractTreeViewer.java:853)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:831)
+	at org.eclipse.jface.viewers.TreeViewer.createChildren(TreeViewer.java:604)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalExpandToLevel(AbstractTreeViewer.java:1810)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.expandToLevel(AbstractTreeViewer.java:1133)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.expandToLevel(AbstractTreeViewer.java:1105)
+	at org.eclipse.ui.internal.views.markers.ExtendedMarkersView.reexpandCategories(ExtendedMarkersView.java:1167)
+	at org.eclipse.ui.internal.views.markers.UIUpdateJob.runInUIThread(UIUpdateJob.java:106)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-06-27 23:38:26.965
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-06-27 23:38:27.265
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResoultion(LSPCodeActionMarkerResolution.java:170)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:192)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createTreeItem(AbstractTreeViewer.java:853)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:831)
+	at org.eclipse.jface.viewers.TreeViewer.createChildren(TreeViewer.java:604)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalExpandToLevel(AbstractTreeViewer.java:1810)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.expandToLevel(AbstractTreeViewer.java:1133)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.expandToLevel(AbstractTreeViewer.java:1105)
+	at org.eclipse.ui.internal.views.markers.ExtendedMarkersView.reexpandCategories(ExtendedMarkersView.java:1167)
+	at org.eclipse.ui.internal.views.markers.UIUpdateJob.runInUIThread(UIUpdateJob.java:106)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-06-27 23:38:28.578
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-06-27 23:38:28.610
+!MESSAGE Marker id 24 not found.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 24 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:83)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:280)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.lambda$3(LSPCodeActionMarkerResolution.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2021-06-27 23:38:28.610
+!MESSAGE Marker id 24 not found.
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-06-27 23:38:28.616
+!MESSAGE Marker id 25 not found.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 25 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:83)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:280)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.lambda$3(LSPCodeActionMarkerResolution.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2021-06-27 23:38:28.616
+!MESSAGE Marker id 25 not found.
+
+!ENTRY Activator 1 0 2021-06-27 23:38:28.715
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:38:28.945
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:38:29.034
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:38:30.477
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:38:30.575
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:38:38.828
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:38:39.495
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:38:39.576
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:11.900
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:12.180
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:12.290
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:12.523
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:12.605
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:12.678
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:12.807
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:13.236
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:13.920
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:13.982
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:14.923
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:21.767
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:22.666
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:28.317
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:28.461
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:28.572
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:28.727
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:29.801
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:29.865
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:29.954
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:30.261
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:30.427
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:30.589
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:30.683
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:30.885
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:30.968
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:31.151
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:31.285
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:31.542
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:31.646
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:31.901
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:32.074
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:32.253
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:32.693
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:32.941
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:33.041
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:33.245
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:33.326
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:33.510
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:34.053
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:34.245
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:34.445
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:35.890
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:35.946
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:36.324
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:41.805
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:42.090
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:44.926
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:45.241
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:47.344
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:47.582
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:47.739
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:47.964
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:48.153
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:48.337
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:48.466
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:49.171
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:49.236
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:49.416
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:49.487
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:49.702
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:49.762
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:50.310
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:50.472
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:50.681
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:51.022
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:51.111
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:51.310
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:51.830
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:51.999
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:52.151
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:52.333
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:52.886
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:53.041
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:53.263
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:53.311
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:53.496
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:53.823
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:53.921
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:54.085
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:54.159
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:54.255
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:54.384
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:54.614
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:54.982
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:55.231
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:55.352
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:55.533
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:56.487
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:56.547
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:56.854
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:57.512
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:57.587
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:58.578
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:58.636
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:59.222
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:39:59.790
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:00.526
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:00.991
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:01.675
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:01.729
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:05.720
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:06.422
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:06.467
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:06.760
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:10.337
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:10.992
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:11.053
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:11.522
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:11.984
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:12.069
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:12.845
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:22.617
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:22.771
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:22.904
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:23.025
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:23.216
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:23.315
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:24.080
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:24.471
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:24.744
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:25.456
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:26.255
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:26.314
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:27.486
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:40.915
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:41.233
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:48.264
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:40:48.636
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:04.461
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:04.906
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:05.428
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:05.866
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:06.042
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:06.217
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:06.380
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:06.555
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:06.730
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:07.202
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:07.367
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:07.490
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:07.605
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:07.803
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:07.923
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:08.153
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:08.666
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:09.363
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:09.480
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:09.875
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:10.154
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:10.578
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:10.699
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:12.096
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:12.155
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:13.263
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:13.869
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:13.920
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:14.379
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:14.479
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:15.141
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:19.091
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:19.325
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:19.691
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:19.931
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:20.064
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:20.736
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:20.909
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:21.236
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:21.597
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:21.828
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:22.397
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:23.064
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:23.120
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:23.171
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:23.268
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:23.372
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:23.541
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:23.628
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:23.789
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:24.098
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:24.276
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:24.509
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:24.715
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:24.829
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:26.084
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:26.145
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:26.324
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:26.538
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:26.770
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:26.946
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:28.152
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:34.205
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:34.886
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:46.375
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:46.495
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:46.627
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:46.726
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:46.892
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:46.997
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:47.133
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:47.420
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:47.631
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:47.771
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:47.910
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:48.147
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:48.294
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:48.387
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:49.790
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:49.847
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:50.022
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:50.598
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:51.044
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:51.308
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:51.548
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:51.647
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:51.759
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:51.894
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:51.966
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:52.267
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:52.359
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:52.668
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:52.875
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:53.053
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:53.276
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:53.524
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:53.918
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:54.797
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:55.084
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:55.956
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:56.010
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:58.004
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:58.112
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:58.300
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:43:58.795
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:00.466
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:00.613
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:00.735
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:00.863
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:01.039
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:01.202
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:01.516
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:01.828
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:02.073
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:02.229
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:02.351
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:02.591
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:02.740
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:02.869
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:04.015
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:04.069
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:04.253
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:04.893
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:05.445
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:06.100
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:06.145
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:06.494
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:06.917
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:07.214
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:07.384
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:07.495
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:07.639
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:07.714
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:07.983
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:08.064
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:09.202
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:09.251
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:13.390
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:13.837
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:14.001
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:14.101
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:14.295
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:14.438
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:14.559
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:14.925
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:15.630
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:15.736
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:15.896
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:16.660
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:18.134
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:44:18.715
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:56:03.316
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:56:03.938
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:56:31.637
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:56:32.244
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:57:00.859
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:57:01.480
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-06-27 23:57:15.650
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-06-27 23:57:16.167
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-27 23:57:16.757
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:00:06.139
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:00:06.753
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:00:27.732
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:00:28.340
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:01:01.744
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:01:02.364
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:01:47.934
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:01:48.542
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:03:36.991
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:03:37.668
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:03:53.410
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:03:54.026
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:04:10.781
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:04:11.393
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:04:17.344
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:04:17.951
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:06:40.035
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY Activator 1 0 2021-06-28 00:06:40.737
+!MESSAGE Has main method computation for project 'todo'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 00:06:42.830
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.dzfFvCDJ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 00:06:42.831
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.dzfFvCDJ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 00:06:42.833
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 00:06:42.834
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.dzfFvCDJ => OK
